@@ -12,5 +12,5 @@ A minimal calculator that performs addition, subtraction, multiplication and div
 ## 🚀 Installation & Usage
 
 1. Clone the repo  
-   ```[bash](https://aramyst.github.io/BasicaCalculator)
+   https://aramyst.github.io/BasicaCalculator
   
